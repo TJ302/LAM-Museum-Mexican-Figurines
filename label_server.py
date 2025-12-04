@@ -3,6 +3,7 @@ from flask_cors import CORS
 from pathlib import Path
 import json
 import sys
+import subprocess
 
 app = Flask(__name__)
 
@@ -51,7 +52,7 @@ def run_cluster():
     try:
         # Runs your Python script
         result = subprocess.run(
-            ["python3", "cluster_wfu_and_labels.py"],
+            ["py", "cluster_wfu_and_labels.py"],
             capture_output=True,
             text=True,
             check=True
