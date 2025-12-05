@@ -8,6 +8,12 @@ export default function Report() {
           View regional attribution and confidence scores.
         </p>
       </div>
+
+      <img 
+          src="/label_region_distribution.png" 
+          alt="Label Region Distribution Chart"
+          className="mx-auto mt-8 w-64 rounded-xl"
+        />
   
         {/* RESULTS TABLE */}
         <section className="space-y-6">
