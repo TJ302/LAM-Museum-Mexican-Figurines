@@ -1,5 +1,9 @@
-{"imageId": "../assets/Chupicuaro/Screenshot 2025-09-28 at 3.46.18\u202fPM.png", "region": "Chupicuaro", "vector": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}
-{"imageId": "../assets/Chupicuaro/Screenshot 2025-09-28 at 3.51.11\u202fPM.png", "region": "Chupicuaro", "vector": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}
-{"imageId": "../assets/Colima/Hunchback_Vessel_MET_X.2.431_a.jpeg", "region": "Colima", "vector": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}
-{"imageId": "../assets/Chupicuaro/Seated_Figure_MET_1979.206.872.jpeg", "region": "Chupicuaro", "vector": [0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 0, 1, 1, 0]}
-{"imageId": "../assets/Nayarit/_Mourning__Figure_Vessel_MET_1979.206.1098_a.jpg", "region": "Nayarit", "vector": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0]}
+{"imageId": "../assets/Chupicuaro/img_001.png", "region": "Chupicuaro", "vector": [1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]}
+{"imageId": "../assets/Chupicuaro/img_002.png", "region": "Chupicuaro", "vector": [1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]}
+{"imageId": "../assets/Chupicuaro/img_003.png", "region": "Chupicuaro", "vector": [1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]}
+{"imageId": "../assets/Chupicuaro/img_004.png", "region": "Chupicuaro", "vector": [1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]}
+{"imageId": "../assets/Nayarit/img_101.jpg", "region": "Nayarit", "vector": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0]}
+{"imageId": "../assets/Nayarit/img_102.jpg", "region": "Nayarit", "vector": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0]}
+{"imageId": "../assets/Nayarit/img_103.jpg", "region": "Nayarit", "vector": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0]}
+{"imageId": "../assets/Colima/img_201.jpg", "region": "Colima", "vector": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5]}
+{"imageId": "../assets/Colima/img_202.jpg", "region": "Colima", "vector": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5]}

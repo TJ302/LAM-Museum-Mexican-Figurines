@@ -1,0 +1,9 @@
+../assets/Chupicuaro/img_001.png	Chupicuaro	0
+../assets/Chupicuaro/img_002.png	Chupicuaro	0
+../assets/Chupicuaro/img_003.png	Chupicuaro	0
+../assets/Chupicuaro/img_004.png	Chupicuaro	0
+../assets/Nayarit/img_101.jpg	Nayarit	1
+../assets/Nayarit/img_102.jpg	Nayarit	1
+../assets/Nayarit/img_103.jpg	Nayarit	1
+../assets/Colima/img_201.jpg	Colima	2
+../assets/Colima/img_202.jpg	Colima	2
