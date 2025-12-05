@@ -16,9 +16,31 @@ export default function Report() {
       {/* IMAGE */}
         <img 
           src={labelRegionDistribution} 
-          alt="Label region distribution" 
+          alt="Label Region Distribution" 
           className="mx-auto mt-8 w-64 rounded-xl"
         />
+
+      {/* RESULTS TABLE */}
+      <section className="space-y-6">
+        <div className="overflow-x-auto rounded-xl bg-stone-900/50">
+          <table className="w-full text-left text-stone-300 text-sm">
+            <thead className="bg-stone-900/80">
+              <tr>
+                <th className="px-4 py-3">Artifact ID</th>
+                <th className="px-4 py-3">Predicted Region</th>
+                <th className="px-4 py-3">Confidence</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr className="border-t border-stone-800/70">
+                <td className="px-4 py-3">—</td>
+                <td className="px-4 py-3">—</td>
+                <td className="px-4 py-3">—</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
         
       {/* Back link */}
         <div className="text-center pt-4">
