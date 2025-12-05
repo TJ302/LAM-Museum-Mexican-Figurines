@@ -11,14 +11,15 @@ export default function Report() {
         <p className="text-stone-400 max-w-2xl mx-auto mt-2">
           View regional distribution per cluster.
         </p>
+      </div>
 
-        {/* IMAGE */}
+      {/* IMAGE */}
         <img 
           src={labelRegionDistribution} 
           alt="Label region distribution" 
           className="mx-auto mt-8 w-64 rounded-xl"
         />
-      </div>
+        
       {/* Back link */}
         <div className="text-center pt-4">
           <Link
