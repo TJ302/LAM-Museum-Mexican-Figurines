@@ -1,0 +1,20 @@
+{
+  "0": {
+    "Chupicuaro": {
+      "count": 4,
+      "probability": 1.0
+    }
+  },
+  "1": {
+    "Nayarit": {
+      "count": 3,
+      "probability": 1.0
+    }
+  },
+  "2": {
+    "Colima": {
+      "count": 2,
+      "probability": 1.0
+    }
+  }
+}
