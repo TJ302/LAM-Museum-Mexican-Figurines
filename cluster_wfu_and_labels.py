@@ -322,7 +322,14 @@ def main():
         for r, c in reg_counts.items():
             pct = 100.0 * c / total if total > 0 else 0.0
             print(f"    {r}: {c} ({pct:.1f}%)")
+    
+    clusters_out = Path("clusters.txt")
+    with clusters_out.open("w", encoding="utf-8") as f:
+        for image_id, region, cluster in zip(label_vectors.keys(), regions_used, cluster_assignments):
+            f.write(f"{image_id}\t{region}\t{cluster}\n")
 
+    print(f"[INFO] Saved cluster assignments to {clusters_out}")
+    
     # 6. Plot region distribution as a pie chart (overall labeled data)
     plot_cluster_region_pies(cluster_region_counts, args.output)
 
